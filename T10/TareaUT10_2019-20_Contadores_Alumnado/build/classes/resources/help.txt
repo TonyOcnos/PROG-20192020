@@ -1,0 +1,11 @@
+--------------------------------------------------------------
+
+Comandos:
+       [help][ayuda] --> esta ayuda
+       [show][mostrar][ver] --> muestran todos los contadores
+       [inc] --> incrementar un contador
+       [borrar][delete] --> borrar un contador
+       [crear][new][create] --> crear un contador nuevo
+       [exit][salir] --> salir de la aplicación
+
+--------------------------------------------------------------
